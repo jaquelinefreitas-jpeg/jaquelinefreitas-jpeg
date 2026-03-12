@@ -8,11 +8,11 @@
 
 <p align="left">
   
- 👩‍💻 Sobre mim
+### 👩‍💻 Sobre mim
 
 Eu me chamo Jaqueline e estou no 3º período de Engenharia de Software. Atualmente, busco uma oportunidade que me permita aplicar, na prática, os conhecimentos adquiridos durante minha formação acadêmica. Tenho interesse nas áreas de desenvolvimento de software, dados e desenvolvimento frontend.
 
- 🚀 Skills 
+### 🚀 Skills 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
   <img width="12" />
@@ -30,18 +30,18 @@ Eu me chamo Jaqueline e estou no 3º período de Engenharia de Software. Atualme
   <img width="12" />
 </div>
 
- 📚 Atualmente estudando
+### 📚 Atualmente estudando
 
 <p align="left">- Desenvolvimento Web e Front End</p>
 <p align="left">- Lógica de programação</p> 
 <p align="left">- Java</p>
 <p align="left">- Estrutura de Dados</p> 
 
- 📌 Experiência
+### 📌 Experiência
 
 <p align="left">Tenho 9 anos de experiência em Atendimento e Suporte ao Cliente, atuando principalmente com clientes B2B e B2G. Nesse período, desenvolvi habilidades em gestão de demandas e resolução de problemas por meio de diferentes canais de comunicação, como e-mail, chat, WhatsApp e telefone. Essa experiência fortaleceu minhas competências em comunicação, organização de processos e análise de solicitações, habilidades que hoje aplico também na minha transição para a área de tecnologia. </p>
 
 
-### Acompanhe o meu LinkedIn
-    <a href="www.linkedin.com/in/jaqueline-freitas-5878851a8" target="_blank">
+ Acompanhe o meu LinkedIn <br>
+    <a href="www.linkedin.com/in/jaqueline-freitas-5878851a8">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"></a>
