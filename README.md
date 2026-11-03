@@ -10,7 +10,7 @@
   
 ### 👩‍💻 Sobre mim
 
-Eu me chamo Jaqueline e estou no 3º período de Engenharia de Software. Atualmente, busco uma oportunidade que me permita aplicar, na prática, os conhecimentos adquiridos durante minha formação acadêmica. Tenho interesse nas áreas de desenvolvimento de software, dados e desenvolvimento frontend.
+Eu me chamo Jaqueline e estou no 4º período de Engenharia de Software. Atualmente, busco uma oportunidade que me permita aplicar, na prática, os conhecimentos adquiridos durante minha formação acadêmica. Tenho interesse nas áreas de desenvolvimento de software, dados e desenvolvimento frontend.
 
 ### 🚀 Skills 
 <div align="left">
